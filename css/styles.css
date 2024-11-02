@@ -60,13 +60,13 @@ a {
 .hero-section {
     background-color: #2e2f42;
     color: #fff;
-    letter-spacing: inherit;
 }
 
 .hero-title {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
+    letter-spacing: 0.02em;
 }
 
 .hero-button {
@@ -90,7 +90,7 @@ a {
     font-size: 20px;
     line-height: 1.2;
     color: #2e2f42;
-    letter-spacing: inherit;
+    letter-spacing: 0.02em;
 }
 
 .team-section {
@@ -103,11 +103,11 @@ a {
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
-    letter-spacing: inherit;
+    letter-spacing: 0.02em;
 }
 
 .text {
-    letter-spacing: inherit;
+    letter-spacing: 0.02em;
 }
 
 .team-item {
