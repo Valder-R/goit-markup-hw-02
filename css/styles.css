@@ -44,6 +44,10 @@ a {
     color: #404bbf;
 }
 
+.contacts{
+    font-style: normal
+}
+
 .contacts-link {
     color: inherit;
 }
@@ -60,9 +64,9 @@ a {
 
 .hero-title {
     font-size: 56px;
-    line-height: 1.1;
+    line-height: 1.07;
     text-align: center;
-    
+    letter-spacing: inherit;
 }
 
 .hero-button {
@@ -73,6 +77,7 @@ a {
     letter-spacing: 0.04em;
     color: inherit;
     font-family: inherit;
+    cursor: pointer
 }
 
 .hero-button:hover,
@@ -96,6 +101,12 @@ a {
     line-height: 1.11;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
+    letter-spacing: inherit;
+}
+
+.text {
+    letter-spacing: inherit;
 }
 
 .team-item {
